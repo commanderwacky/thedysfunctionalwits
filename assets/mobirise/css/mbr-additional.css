@@ -1,4 +1,5 @@
 @import url(https://fonts.googleapis.com/css?family=Permanent+Marker:400);
+@import url(https://fonts.googleapis.com/css?family=Anton:400);
 
 
 
@@ -41,7 +42,7 @@ body {
   font-size: 1.6rem;
 }
 .display-5 {
-  font-family: 'Permanent Marker', handwriting;
+  font-family: 'Anton', sans-serif;
   font-size: 2.5rem;
 }
 .display-5 > .mbr-iconfont {
