@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "My Site",
-    "currentPage": "index.html",
+    "currentPage": "Photos.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -1160,6 +1160,32 @@
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
                 "image": "@PROJECT_PATH@/assets/images/31755355-2107073052905587-4727223108295983104-n-714x960.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/31755355-2107073052905587-4727223108295983104-n-714x960-714x960.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/51798043-2331990960413794-3305414467453452288-n-459x613.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/51798043-2331990960413794-3305414467453452288-n-459x613-459x613.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/61376972-2413247278954828-6214792148026392576-n-461x461.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/61376972-2413247278954828-6214792148026392576-n-461x461-461x461.jpg",
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
